@@ -29,7 +29,7 @@ between the buyers and sellers of art.
 ## Technology Used
 The Tech Stack of the application is kept simple for easier understanding by large communities
 1. Android studio- The main IDE for building the entire project.
-2. Firebase- Database used in the project
+2. Firebase and SQLlite- Database used in the project
 
 The entire project is written in java and the frontend is deisgned through android studio using XML.
 
